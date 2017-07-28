@@ -1,0 +1,24 @@
+{
+  "name": "tagcomercio-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "flexboxgrid": "^6.3.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "file-loader": "^0.11.2",
+    "font-awesome-sass-loader": "^2.0.1",
+    "image-webpack-loader": "^3.3.1",
+    "imagemin-webpack-plugin": "^1.5.0-beta.0",
+    "url-loader": "^0.5.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
